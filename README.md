@@ -11,13 +11,18 @@ yarn add eslint-import-resolver-typescript -D
 
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 
+yarn add react-router-dom
 
+yarn add @types/react-router-dom -D
 
+yarn add styled-components
+yarn add @types/styled-components -D
+Instalar extensão styled components do VSCode
+Instalar extensão Color highlight do VSCode
 
+yarn add polished
 
-
-
-
+yarn add react-icons
 
 
 ########################################################################################################################
